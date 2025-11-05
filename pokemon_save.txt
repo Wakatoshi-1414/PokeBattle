@@ -1,0 +1,15 @@
+Nick
+Water
+null
+10
+0
+100
+50
+30
+50
+20
+35
+Tackle
+Tail Whip
+Water Gun
+Withdraw
