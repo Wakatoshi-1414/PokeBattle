@@ -1,15 +1,15 @@
 Nick
-Water
+Fire
 null
-10
-0
-100
+6
 50
-30
 50
-20
-35
-Tackle
-Tail Whip
-Water Gun
-Withdraw
+22
+22
+22
+22
+16
+Scratch
+Growl
+Ember
+Smokescreen
