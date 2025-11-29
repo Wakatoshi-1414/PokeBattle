@@ -8,9 +8,7 @@
 
 ##  Overview
 Missing:
-Inheritance
-Polymorphism
-Abstraction
+
 
 
 
@@ -19,6 +17,9 @@ Abstraction
 -  Automatic Save and Load System
 - Endless Battling
 - Move Database and Pokemon Database
+- Inheritance
+- Polymorphism
+- Abstraction
 
 ---
 ##  Project Structure
